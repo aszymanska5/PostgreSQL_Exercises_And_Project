@@ -1,0 +1,201 @@
+"imie","nazwisko","id_faktury","data_wystawienia","produkt","cena","ilosc"
+"Stoddard","Soles","146","2021-06-01","Salt And Pepper Mix - White","96.23",2
+"Stoddard","Soles","187","2022-06-03","Bandage - Flexible Neon","297.61",4
+"Stoddard","Soles","146","2021-06-01","Table Cloth 54x54 White","240.49",10
+"Stoddard","Soles","151","2021-03-05","Tomatoes - Grape","280.24",8
+"Stoddard","Soles","151","2021-03-05","Chestnuts - Whole,canned","156.07",9
+"Wilhelmine","Korpolak","195","2020-03-20","Bread - Sour Batard","301.45",9
+"Sterling","Rooper","135","2022-01-13","Stock - Chicken, White","43.79",1
+"Sterling","Rooper","135","2022-01-13","Tea - Orange Pekoe","21.76",6
+"Latia","Lucia","52","2022-01-14","Table Cloth 54x54 White","240.49",10
+"Latia","Lucia","185","2022-03-25","Pork - Sausage, Medium","203.46",2
+"Latia","Lucia","52","2022-01-14","Taro Leaves","53.69",4
+"Earvin","Brando","131","2022-07-02","Jam - Marmalade, Orange","1.29",5
+"Earvin","Brando","74","2022-09-22","Wine - Sherry Dry Sack, William","412.53",4
+"Earvin","Brando","131","2022-07-02","Ice Cream Bar - Drumstick","316.96",1
+"Dorree","Rutherford","105","2022-07-20","Split Peas - Green, Dry","385.15",1
+"Dorree","Rutherford","105","2022-07-20","Beef - Texas Style Burger","22.27",9
+"Hertha","Snaddin","31","2021-12-04","Sole - Fillet","143.96",4
+"Guss","Shreeves","149","2022-09-28","Lamb - Shoulder, Boneless","363.32",9
+"Guss","Shreeves","177","2020-12-22","Bread - Sour Batard","301.45",6
+"Guss","Shreeves","149","2022-09-28","Bandage - Finger Cots","71.18",10
+"Guss","Shreeves","30","2022-04-15","Table Cloth 54x54 White","240.49",2
+"Guss","Shreeves","191","2022-04-11","Flour - Bran, Red","170.31",9
+"Guss","Shreeves","149","2022-09-28","Beer - Guiness","386.37",8
+"Guss","Shreeves","177","2020-12-22","Wine - White, Colubia Cresh","40.55",8
+"Guss","Shreeves","100","2021-10-23","Beer - Guiness","386.37",8
+"Guss","Shreeves","149","2022-09-28","Shrimp - 31/40","498.59",1
+"Christan","Vaadeland","142","2022-02-25","Juice - Clam, 46 Oz","353.26",6
+"Christan","Vaadeland","194","2022-09-07","Beans - Kidney, Canned","407.70",7
+"Esra","Mix","163","2022-02-22","Raspberries - Fresh","460.05",9
+"Esra","Mix","54","2022-04-17","Mushroom - Shitake, Fresh","339.99",1
+"Esra","Mix","34","2021-07-10","Wine - Balbach Riverside","335.80",1
+"Esra","Mix","132","2022-10-30","Wine - Vidal Icewine Magnotta","237.08",1
+"Kingston","Ivanichev","13","2021-06-23","Beer - Guiness","386.37",4
+"Tybie","Binning","39","2022-12-16","Spring Roll Veg Mini","160.41",7
+"Tybie","Binning","39","2022-12-16","Mushroom - Shitake, Fresh","339.99",2
+"Tybie","Binning","147","2022-07-20","Shichimi Togarashi Peppeers","331.63",9
+"Tybie","Binning","172","2020-06-20","Lamb - Leg, Diced","208.27",10
+"Trixie","Branchflower","134","2022-12-20","English Muffin","75.09",8
+"Trixie","Branchflower","80","2020-07-11","Table Cloth 62x120 White","136.87",10
+"Trixie","Branchflower","137","2021-02-25","Mushroom - Shitake, Fresh","339.99",7
+"Cassius","Bradburn","157","2022-12-29","Cheese - Mozzarella, Buffalo","378.51",6
+"Cassius","Bradburn","37","2021-12-08","Strawberries","208.77",3
+"Cassius","Bradburn","37","2021-12-08","Rice Paper","498.21",4
+"Cassius","Bradburn","37","2021-12-08","Bread - Sour Batard","301.45",8
+"Katti","Smithe","18","2022-01-19","Stock - Chicken, White","43.79",3
+"Tull","Handrek","78","2022-04-13","Rice Paper","498.21",6
+"Gerry","Blasl","87","2020-04-14","Flower - Commercial Spider","318.54",1
+"Gerry","Blasl","15","2021-07-24","Hipnotiq Liquor","159.48",9
+"Gerry","Blasl","15","2021-07-24","Tomatoes - Grape","280.24",3
+"Gerry","Blasl","15","2021-07-24","Juice - Clam, 46 Oz","353.26",9
+"Gerry","Blasl","15","2021-07-24","Smoked Paprika","283.17",9
+"Gerry","Blasl","87","2020-04-14","Wine - Sherry Dry Sack, William","412.53",7
+"Barnett","Spier","90","2022-12-20","Flower - Commercial Spider","318.54",7
+"Barnett","Spier","108","2020-10-15","Orange Roughy 4/6 Oz","478.66",10
+"Gonzales","Ingram","152","2022-11-06","Wine - White, Colubia Cresh","40.55",2
+"Gonzales","Ingram","193","2022-03-14","Wine - Chablis J Moreau Et Fils","436.87",1
+"Kile","Menary","92","2022-12-17","Stock - Chicken, White","43.79",1
+"Kile","Menary","92","2022-12-17","Strawberries","208.77",3
+"Natal","While","138","2022-01-01","Apricots Fresh","202.05",3
+"Natal","While","91","2020-03-21","Coke - Diet, 355 Ml","219.49",5
+"Natal","While","138","2022-01-01","Onions - Green","138.19",6
+"Dorian","Becket","119","2021-10-10","Salt And Pepper Mix - White","96.23",6
+"Dickie","Griffe","60","2022-06-03","Pork - Sausage, Medium","203.46",4
+"Dickie","Griffe","60","2022-06-03","Bread - Multigrain, Loaf","187.52",9
+"Phip","Acey","155","2020-08-07","Lamb - Leg, Diced","208.27",3
+"Phip","Acey","113","2022-02-17","Juice - Apple, 341 Ml","264.50",4
+"Phip","Acey","130","2020-07-06","Pastry - Cheese Baked Scones","443.62",5
+"Arel","Kilner","77","2021-05-21","Foil Wrap","150.77",7
+"Arel","Kilner","180","2021-06-30","Veal - Sweetbread","166.71",1
+"Arel","Kilner","180","2021-06-30","Pepper - Cubanelle","301.99",5
+"Arel","Kilner","180","2021-06-30","Pastry - Cheese Baked Scones","443.62",5
+"Arel","Kilner","180","2021-06-30","Pork - Sausage, Medium","203.46",8
+"Nero","Guice","63","2020-09-10","Sole - Fillet","143.96",5
+"Gary","Hodge","140","2020-02-01","Veal - Insides, Grains","394.42",5
+"Gary","Hodge","140","2020-02-01","Tia Maria","50.60",7
+"Gary","Hodge","178","2020-08-13","Hipnotiq Liquor","159.48",6
+"Cosmo","Galpin","106","2020-10-21","Smoked Paprika","283.17",1
+"Emily","Beisley","16","2020-06-17","Jam - Marmalade, Orange","1.29",2
+"Emily","Beisley","16","2020-06-17","Tea - Herbal Sweet Dreams","385.99",1
+"Priscilla","Gogarty","148","2022-04-07","Lemon Pepper","257.60",6
+"Tami","MacFarlane","71","2022-12-10","Tia Maria","50.60",3
+"Tami","MacFarlane","8","2022-04-01","Cheese - Cheddar, Medium","344.20",7
+"Tami","MacFarlane","8","2022-04-01","Cake - Dulce De Leche","106.12",3
+"Tami","MacFarlane","8","2022-04-01","Towel Multifold","219.53",7
+"Tami","MacFarlane","8","2022-04-01","Pork - Sausage, Medium","203.46",7
+"Tami","MacFarlane","8","2022-04-01","Shrimp - 31/40","498.59",1
+"Tami","MacFarlane","8","2022-04-01","Sole - Fillet","143.96",8
+"Tami","MacFarlane","71","2022-12-10","Bandage - Finger Cots","71.18",2
+"Cesar","Fearnside","200","2020-05-04","Cake - Dulce De Leche","106.12",9
+"Cozmo","Cardo","174","2022-07-22","Onions - Green","138.19",3
+"Napoleon","Brasseur","184","2022-09-08","Coke - Diet, 355 Ml","219.49",7
+"Napoleon","Brasseur","69","2020-10-30","Beer - Sleeman Fine Porter","123.22",6
+"Napoleon","Brasseur","184","2022-09-08","Wine - White, Colubia Cresh","40.55",2
+"Napoleon","Brasseur","69","2020-10-30","Beans - Kidney, Canned","407.70",10
+"Napoleon","Brasseur","184","2022-09-08","Beef - Texas Style Burger","22.27",7
+"Napoleon","Brasseur","69","2020-10-30","Island Oasis - Mango Daiquiri","316.14",6
+"Napoleon","Brasseur","69","2020-10-30","Spring Roll Veg Mini","160.41",5
+"Laney","Fletcher","58","2021-06-11","Beans - Kidney, Canned","407.70",4
+"Laney","Fletcher","58","2021-06-11","Pork - Back, Short Cut, Boneless","259.70",2
+"Laney","Fletcher","58","2021-06-11","Hipnotiq Liquor","159.48",3
+"Morgan","Ingliby","102","2022-06-24","Table Cloth 62x120 White","136.87",9
+"Morgan","Ingliby","33","2022-12-06","Bandage - Flexible Neon","297.61",2
+"Morgan","Ingliby","75","2020-02-22","Flower - Commercial Spider","318.54",3
+"Morgan","Ingliby","84","2020-07-25","Fish - Artic Char, Cold Smoked","427.63",9
+"Morgan","Ingliby","33","2022-12-06","Bread - Multigrain, Loaf","187.52",5
+"Morgan","Ingliby","33","2022-12-06","Cheese - Mozzarella, Buffalo","378.51",5
+"Morgan","Ingliby","84","2020-07-25","Nut - Chestnuts, Whole","176.39",8
+"Bonita","Maier","167","2020-10-22","Halibut - Fletches","314.27",10
+"Rhetta","Iuorio","73","2021-04-20","Flower - Commercial Spider","318.54",3
+"Rhetta","Iuorio","196","2022-04-07","Strawberries","208.77",9
+"Abbey","Dudney","128","2022-11-15","Sole - Fillet","143.96",8
+"Abbey","Dudney","128","2022-11-15","Veal - Sweetbread","166.71",8
+"Abbey","Dudney","128","2022-11-15","Juice - Clam, 46 Oz","353.26",7
+"Bird","Stradling","154","2021-10-10","Jam - Marmalade, Orange","1.29",10
+"Bird","Stradling","98","2021-09-16","Pastry - Plain Baked Croissant","204.83",10
+"Bird","Stradling","98","2021-09-16","Jam - Marmalade, Orange","1.29",8
+"Bird","Stradling","154","2021-10-10","Wine - Sherry Dry Sack, William","412.53",1
+"Ginevra","Anthon","5","2021-03-15","Beans - Kidney, Canned","407.70",7
+"Norina","Senecaux","136","2021-06-02","Pepper - Cubanelle","301.99",4
+"Norina","Senecaux","136","2021-06-02","English Muffin","75.09",10
+"Babbie","Dreakin","145","2021-05-13","Smoked Paprika","283.17",8
+"Babbie","Dreakin","145","2021-05-13","Onions - Green","138.19",2
+"Babbie","Dreakin","114","2021-03-08","Towel Multifold","219.53",5
+"Webb","Tomich","47","2021-12-11","Spring Roll Veg Mini","160.41",8
+"Webb","Tomich","101","2022-07-31","Hickory Smoke, Liquid","286.75",7
+"Webb","Tomich","101","2022-07-31","Pastry - Cheese Baked Scones","443.62",4
+"Rosa","Martinson","189","2020-09-02","Bread - Sour Sticks With Onion","88.04",4
+"Rosa","Martinson","88","2022-03-27","Wine - Acient Coast Caberne","298.02",10
+"Rosa","Martinson","88","2022-03-27","Mushroom - Shitake, Fresh","339.99",6
+"Rosa","Martinson","88","2022-03-27","Smoked Paprika","283.17",8
+"Rosa","Martinson","88","2022-03-27","Paper Cocktail Umberlla 80 - 180","288.73",4
+"Dwayne","Lepick","45","2021-01-06","Sea Bass - Whole","397.52",1
+"Dwayne","Lepick","2","2020-11-25","Bread - Sour Sticks With Onion","88.04",2
+"Karna","Menendes","56","2020-09-24","Wine - Balbach Riverside","335.80",9
+"Karna","Menendes","56","2020-09-24","Tea - Orange Pekoe","21.76",7
+"Britte","Giffaut","7","2020-04-17","Chicken - Whole Roasting","205.15",1
+"Britte","Giffaut","7","2020-04-17","Propel Sport Drink","229.83",2
+"Britte","Giffaut","7","2020-04-17","Pork - Back, Short Cut, Boneless","259.70",9
+"Elinor","Stokell","175","2020-04-01","Lemon Pepper","257.60",4
+"Elinor","Stokell","175","2020-04-01","Wine - Sherry Dry Sack, William","412.53",10
+"Russ","Vaadeland","83","2020-11-27","Bread - Sour Sticks With Onion","88.04",4
+"Russ","Vaadeland","109","2022-11-10","English Muffin","75.09",1
+"Russ","Vaadeland","82","2021-09-18","Cheese - Mozzarella, Buffalo","378.51",8
+"Russ","Vaadeland","26","2021-03-18","Apricots Fresh","202.05",5
+"Russ","Vaadeland","109","2022-11-10","Wine - Sherry Dry Sack, William","412.53",8
+"Russ","Vaadeland","109","2022-11-10","Tea - Herbal Sweet Dreams","385.99",1
+"Russ","Vaadeland","82","2021-09-18","Hipnotiq Liquor","159.48",10
+"Mildred","Vigars","186","2021-02-17","Split Peas - Green, Dry","385.15",6
+"Gipsy","Hawking","81","2021-01-19","Split Peas - Green, Dry","385.15",3
+"Gipsy","Hawking","133","2020-03-08","Chestnuts - Whole,canned","156.07",3
+"Gipsy","Hawking","81","2021-01-19","Pastry - Plain Baked Croissant","204.83",8
+"Gipsy","Hawking","85","2022-02-27","Hickory Smoke, Liquid","286.75",1
+"Gipsy","Hawking","85","2022-02-27","Juice - Apple, 341 Ml","264.50",6
+"Gipsy","Hawking","133","2020-03-08","Raspberries - Fresh","460.05",6
+"Hetty","Khalid","76","2021-03-29","Wine - White, Colubia Cresh","40.55",10
+"Brennan","Lowbridge","173","2022-08-16","Cake - Dulce De Leche","106.12",7
+"Brennan","Lowbridge","173","2022-08-16","Nut - Chestnuts, Whole","176.39",6
+"Fabien","Selwyne","97","2021-12-27","Strawberries","208.77",8
+"Jacky","Fanshaw","55","2021-01-06","Flower - Commercial Spider","318.54",3
+"Jacky","Fanshaw","156","2020-06-23","Island Oasis - Mango Daiquiri","316.14",5
+"Jacky","Fanshaw","35","2020-03-28","Cafe Royale","193.51",10
+"Jacky","Fanshaw","35","2020-03-28","Sole - Fillet","143.96",9
+"Jacky","Fanshaw","156","2020-06-23","Milk Powder","148.68",9
+"Brewer","Bunstone","166","2021-01-24","Hickory Smoke, Liquid","286.75",3
+"Udale","Towersey","117","2022-08-09","Nut - Chestnuts, Whole","176.39",5
+"Udale","Towersey","24","2020-08-19","Beef - Tenderlion, Center Cut","377.23",5
+"Udale","Towersey","49","2021-09-23","Split Peas - Green, Dry","385.15",4
+"Thoma","Lortzing","115","2020-05-29","Propel Sport Drink","229.83",2
+"Catarina","Repper","59","2021-01-10","Pork - Back, Short Cut, Boneless","259.70",6
+"Catarina","Repper","192","2021-07-26","Rice Paper","498.21",7
+"Gerrie","Wherrett","165","2022-08-01","Wine - Touraine Azay - Le - Rideau","112.68",9
+"Gerrie","Wherrett","22","2020-08-16","Sauce - Thousand Island","138.24",4
+"Gerrie","Wherrett","165","2022-08-01","Kolrabi","305.22",9
+"Yettie","Mordecai","67","2021-01-17","Lemon Pepper","257.60",7
+"Yettie","Mordecai","125","2022-11-03","Cleaner - Pine Sol","102.69",8
+"Yettie","Mordecai","125","2022-11-03","Cafe Royale","193.51",5
+"Yettie","Mordecai","183","2021-08-04","Jam - Marmalade, Orange","1.29",8
+"Yettie","Mordecai","67","2021-01-17","Split Peas - Green, Dry","385.15",10
+"Binny","Bartlomiej","144","2021-01-09","Shrimp - 31/40","498.59",7
+"Martie","Alcoran","66","2022-10-03","Butter - Pod","53.00",8
+"Elliot","Franzetti","124","2022-11-10","Mushroom - Shitake, Fresh","339.99",8
+"Elliot","Franzetti","159","2021-09-19","Bread - Multigrain, Loaf","187.52",1
+"Agace","Crecy","1","2021-02-15","Green Scrubbie Pad H.duty","418.20",6
+"Davin","Keyme","123","2021-08-18","Jack Daniels","170.27",9
+"Davin","Keyme","123","2021-08-18","Fish - Artic Char, Cold Smoked","427.63",7
+"Coleman","Hurne","14","2022-07-22","Beef - Texas Style Burger","22.27",1
+"Coleman","Hurne","190","2021-11-21","Rice Paper","498.21",6
+"Coleman","Hurne","14","2022-07-22","Veal - Sweetbread","166.71",10
+"Phyllys","Wilhelmy","72","2020-12-09","Wine - Sherry Dry Sack, William","412.53",1
+"Phyllys","Wilhelmy","48","2022-08-26","Cheese - Mozzarella, Buffalo","378.51",10
+"Susanne","Phelps","116","2021-10-17","Raspberries - Fresh","460.05",1
+"Susanne","Phelps","116","2021-10-17","Apricots Fresh","202.05",4
+"Susanne","Phelps","116","2021-10-17","Sauce - Thousand Island","138.24",8
+"Susanne","Phelps","70","2022-07-18","Butter - Pod","53.00",5
+"Kanya","Pohlak","21","2022-08-13","Wine - Vidal Icewine Magnotta","237.08",6
+"Kanya","Pohlak","21","2022-08-13","Stock - Chicken, White","43.79",5
+"Kanya","Pohlak","21","2022-08-13","Wine - Touraine Azay - Le - Rideau","112.68",9
+"Kanya","Pohlak","160","2022-04-06","Onions - Green","138.19",7
+"Kanya","Pohlak","160","2022-04-06","Paper Cocktail Umberlla 80 - 180","288.73",9
+"Kanya","Pohlak","160","2022-04-06","Cleaner - Pine Sol","102.69",10
